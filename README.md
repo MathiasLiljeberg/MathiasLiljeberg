@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/mathiast%C3%B8pfer/">
+<a href="https://www.linkedin.com/in/mathiasliljeberg/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark-l.svg">
   <img alt="Mathias Liljeberg – Projektleder · Shopify, e-commerce & teknisk rådgivning hos ShopHelten. Connect på LinkedIn." src="assets/banner-light-l.svg" width="100%">
@@ -31,7 +31,7 @@
   <img alt="Commit-historik: en næsten tom contribution-graf, hvor en tumbleweed ruller forbi. Commits det seneste år: 4. Kopper kaffe: uendeligt." src="assets/activity-light-l.svg" width="100%">
 </picture>
 
-<a href="https://www.linkedin.com/in/mathiast%C3%B8pfer/">
+<a href="https://www.linkedin.com/in/mathiasliljeberg/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/approach-dark-l.svg">
   <img alt="Min tilgang: 01 Forstå, 02 Oversæt, 03 Implementér. Har du en Shopify-shop, der skal løftes? Skriv til mig på LinkedIn." src="assets/approach-light-l.svg" width="100%">
