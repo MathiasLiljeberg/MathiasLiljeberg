@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="328" viewBox="0 0 1000 328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F3F8EC"/></linearGradient>
+<pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.3" fill="#DDE8CF"/></pattern>
+<linearGradient id="fd" x1="0" x2="1"><stop offset=".45" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff"/></linearGradient>
+<mask id="m"><rect width="1000" height="328" fill="url(#fd)"/></mask><style>
+
+
+.ring{transform-origin:835px 150px;animation:s 40s linear infinite}@keyframes s{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){.ring{animation:none}}</style></defs>
+<rect x=".5" y=".5" width="999" height="327" rx="16" fill="url(#bg)" stroke="#D7E5C4"/>
+<rect x="64" y="51" width="28" height="4" rx="2" fill="#95BF47"/><text x="104" y="58" font-size="15" font-weight="700" letter-spacing="2.2" fill="#59636E">ERFARING</text><line x1="214" y1="110" x2="214" y2="258" stroke="#D7E5C4" stroke-width="2"/><g class="in d1"><text x="64" y="116" font-size="17" font-weight="600" fill="#95BF47">2021 – nu</text><circle cx="214" cy="110" r="9" fill="#95BF47" fill-opacity=".2"/><circle cx="214" cy="110" r="5" fill="#95BF47"/>
+<text x="248" y="108" font-size="21" font-weight="650" fill="#1F2328">Projektleder</text>
+<text x="248" y="134" font-size="17" fill="#59636E">ShopHelten · Shopify Premier-bureau</text></g><g class="in d2"><text x="64" y="190" font-size="17" font-weight="600" fill="#59636E">2020 – 2021</text><circle cx="214" cy="184" r="5" fill="#FFFFFF" stroke="#59636E" stroke-width="2"/>
+<text x="248" y="182" font-size="21" font-weight="650" fill="#1F2328">Account Manager</text>
+<text x="248" y="208" font-size="17" fill="#59636E">Twentyfour (tidl. HTML24)</text></g><g class="in d3"><text x="64" y="264" font-size="17" font-weight="600" fill="#59636E">2014 – 2020</text><circle cx="214" cy="258" r="5" fill="#FFFFFF" stroke="#59636E" stroke-width="2"/>
+<text x="248" y="256" font-size="21" font-weight="650" fill="#1F2328">Salg &amp; butikschef</text>
+<text x="248" y="282" font-size="17" fill="#59636E">Solid</text></g></svg>
