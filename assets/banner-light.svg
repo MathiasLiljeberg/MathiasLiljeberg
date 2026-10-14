@@ -2,16 +2,15 @@
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F3F8EC"/></linearGradient>
 <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.3" fill="#DDE8CF"/></pattern>
 <linearGradient id="fd" x1="0" x2="1"><stop offset=".45" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff"/></linearGradient>
-<mask id="m"><rect width="1000" height="300" fill="url(#fd)"/></mask><style>
-
-
-.ring{transform-origin:835px 150px;animation:s 40s linear infinite}@keyframes s{to{transform:rotate(360deg)}}
-@media (prefers-reduced-motion:reduce){.ring{animation:none}}</style></defs>
+<mask id="m"><rect width="1000" height="300" fill="url(#fd)"/></mask><style>.ring{transform-origin:840px 118px;animation:s 40s linear infinite}@keyframes s{to{transform:rotate(360deg)}}@media (prefers-reduced-motion:reduce){.ring{animation:none}}</style></defs>
 <rect x=".5" y=".5" width="999" height="299" rx="16" fill="url(#bg)" stroke="#D7E5C4"/><rect width="1000" height="300" rx="16" fill="url(#dots)" mask="url(#m)"/>
 <rect x="64" y="56" width="40" height="4" rx="2" fill="#95BF47"/>
-<g class="in d1"><text x="64" y="118" font-size="52" font-weight="700" letter-spacing="-1" fill="#1F2328">Mathias Tøpfer</text></g>
-<g class="in d2"><text x="64" y="160" font-size="23" fill="#59636E">Projektleder · Shopify, e-commerce &amp; teknisk rådgivning</text>
-<text x="64" y="194" font-size="19" fill="#59636E"><tspan fill="#95BF47" font-weight="600">ShopHelten</tspan>  —  Shopify Premier-bureau  ·  København</text></g>
-<g class="in d3"><rect x="64" y="222" width="144" height="38" rx="19.0" fill="#F7FBF1" stroke="#D7E5C4"/><text x="136" y="247.1" text-anchor="middle" font-size="17" font-weight="500" fill="#1F2328">Shopify Plus</text><rect x="218.24" y="222" width="163" height="38" rx="19.0" fill="#F7FBF1" stroke="#D7E5C4"/><text x="300" y="247.1" text-anchor="middle" font-size="17" font-weight="500" fill="#1F2328">Løsningsdesign</text><rect x="391.52" y="222" width="106" height="38" rx="19.0" fill="#F7FBF1" stroke="#D7E5C4"/><text x="445" y="247.1" text-anchor="middle" font-size="17" font-weight="500" fill="#1F2328">CRO &amp; UX</text><rect x="507.68" y="222" width="144" height="38" rx="19.0" fill="#F7FBF1" stroke="#D7E5C4"/><text x="580" y="247.1" text-anchor="middle" font-size="17" font-weight="500" fill="#1F2328">AI-workflows</text></g>
-<g class="ring" fill="none" stroke="#95BF47"><circle cx="835" cy="150" r="96" stroke-opacity=".2" stroke-width="1.5" stroke-dasharray="4 10"/><circle cx="835" cy="150" r="70" stroke-opacity=".38" stroke-width="1.5"/></g>
-<g transform="translate(835 150)" fill="none" stroke="#95BF47" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><path d="M-28 -13 H28 L23 35 H-23 Z" fill="#95BF47" fill-opacity=".12"/><path d="M-13 -13 V-22 A13 13 0 0 1 13 -22 V-13"/></g></svg>
+<text x="64" y="118" font-size="52" font-weight="700" letter-spacing="-1" fill="#1F2328">Mathias Tøpfer</text>
+<text x="64" y="160" font-size="23" fill="#59636E">Projektleder · Shopify, e-commerce &amp; teknisk rådgivning</text>
+<text x="64" y="194" font-size="19" fill="#59636E"><tspan fill="#95BF47" font-weight="600">ShopHelten</tspan>  —  Shopify Premier-bureau  ·  København</text>
+<rect x="64" y="224" width="127" height="36" rx="18.0" fill="#F7FBF1" stroke="#D7E5C4"/><text x="127" y="247.8" text-anchor="middle" font-size="16" font-weight="500" fill="#1F2328">Shopify Plus</text><rect x="200.85343749999998" y="224" width="151" height="36" rx="18.0" fill="#F7FBF1" stroke="#D7E5C4"/><text x="276" y="247.8" text-anchor="middle" font-size="16" font-weight="500" fill="#1F2328">Løsningsdesign</text><rect x="361.888125" y="224" width="111" height="36" rx="18.0" fill="#F7FBF1" stroke="#D7E5C4"/><text x="418" y="247.8" text-anchor="middle" font-size="16" font-weight="500" fill="#1F2328">CRO &amp; UX</text><rect x="483.355" y="224" width="131" height="36" rx="18.0" fill="#F7FBF1" stroke="#D7E5C4"/><text x="549" y="247.8" text-anchor="middle" font-size="16" font-weight="500" fill="#1F2328">AI-workflows</text>
+<g class="ring" fill="none" stroke="#95BF47"><circle cx="840" cy="118" r="84" stroke-opacity=".2" stroke-width="1.5" stroke-dasharray="4 10"/><circle cx="840" cy="118" r="60" stroke-opacity=".38" stroke-width="1.5"/></g>
+<g transform="translate(840 118)" fill="none" stroke="#95BF47" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"><path d="M-25 -12 H25 L21 31 H-21 Z" fill="#95BF47" fill-opacity=".12"/><path d="M-12 -12 V-20 A12 12 0 0 1 12 -20 V-12"/></g>
+<g><rect x="679" y="222" width="257" height="40" rx="20" fill="#95BF47"/>
+<rect x="693" y="231" width="22" height="22" rx="5" fill="#FFFFFF"/><text x="704" y="248" text-anchor="middle" font-size="14" font-weight="800" fill="#95BF47">in</text>
+<text x="725" y="247.5" font-size="16" font-weight="700" fill="#0B0F14">Connect på LinkedIn  →</text></g></svg>

@@ -1,17 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="328" viewBox="0 0 1000 328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="510" viewBox="0 0 1000 510" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif">
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#F3F8EC"/></linearGradient>
 <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.3" fill="#DDE8CF"/></pattern>
 <linearGradient id="fd" x1="0" x2="1"><stop offset=".45" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff"/></linearGradient>
-<mask id="m"><rect width="1000" height="328" fill="url(#fd)"/></mask><style>
-
-
-.ring{transform-origin:835px 150px;animation:s 40s linear infinite}@keyframes s{to{transform:rotate(360deg)}}
-@media (prefers-reduced-motion:reduce){.ring{animation:none}}</style></defs>
-<rect x=".5" y=".5" width="999" height="327" rx="16" fill="url(#bg)" stroke="#D7E5C4"/>
-<rect x="64" y="51" width="28" height="4" rx="2" fill="#95BF47"/><text x="104" y="58" font-size="15" font-weight="700" letter-spacing="2.2" fill="#59636E">ERFARING</text><line x1="214" y1="110" x2="214" y2="258" stroke="#D7E5C4" stroke-width="2"/><g class="in d1"><text x="64" y="116" font-size="17" font-weight="600" fill="#95BF47">2021 – nu</text><circle cx="214" cy="110" r="9" fill="#95BF47" fill-opacity=".2"/><circle cx="214" cy="110" r="5" fill="#95BF47"/>
-<text x="248" y="108" font-size="21" font-weight="650" fill="#1F2328">Projektleder</text>
-<text x="248" y="134" font-size="17" fill="#59636E">ShopHelten · Shopify Premier-bureau</text></g><g class="in d2"><text x="64" y="190" font-size="17" font-weight="600" fill="#59636E">2020 – 2021</text><circle cx="214" cy="184" r="5" fill="#FFFFFF" stroke="#59636E" stroke-width="2"/>
-<text x="248" y="182" font-size="21" font-weight="650" fill="#1F2328">Account Manager</text>
-<text x="248" y="208" font-size="17" fill="#59636E">Twentyfour (tidl. HTML24)</text></g><g class="in d3"><text x="64" y="264" font-size="17" font-weight="600" fill="#59636E">2014 – 2020</text><circle cx="214" cy="258" r="5" fill="#FFFFFF" stroke="#59636E" stroke-width="2"/>
-<text x="248" y="256" font-size="21" font-weight="650" fill="#1F2328">Salg &amp; butikschef</text>
-<text x="248" y="282" font-size="17" fill="#59636E">Solid</text></g></svg>
+<mask id="m"><rect width="1000" height="510" fill="url(#fd)"/></mask><style></style></defs>
+<rect x=".5" y=".5" width="999" height="509" rx="16" fill="url(#bg)" stroke="#D7E5C4"/>
+<rect x="64" y="51" width="28" height="4" rx="2" fill="#95BF47"/><text x="104" y="58" font-size="15" font-weight="700" letter-spacing="2.2" fill="#59636E">ERFARING</text><rect x="64" y="88" width="872" height="374" rx="14" fill="#F6F8F3" stroke="#D7E5C4"/><circle cx="88" cy="110" r="5.5" fill="#FF5F57"/><circle cx="106" cy="110" r="5.5" fill="#FEBC2E"/><circle cx="124" cy="110" r="5.5" fill="#28C840"/><text x="92" y="148" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" fill="#59636E"><tspan fill="#95BF47">$</tspan> git log --career --graph</text><line x1="100" y1="192" x2="100" y2="420" stroke="#95BF47" stroke-opacity=".45" stroke-width="2"/><circle cx="100" cy="187" r="9" fill="#95BF47" fill-opacity=".2"/><circle cx="100" cy="187" r="5" fill="#95BF47"/><text x="126" y="192" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#D29922">3f9a2c1</text><rect x="201" y="172" width="112" height="24" rx="12" fill="#95BF47" fill-opacity=".16" stroke="#95BF47" stroke-opacity=".5"/><text x="257" y="188.5" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="700" fill="#95BF47">HEAD -&gt; main</text>
+<text x="325" y="192" font-size="19" font-weight="650" fill="#1F2328">Projektleder @ ShopHelten</text>
+<text x="912" y="192" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#59636E">2021 – nu</text>
+<text x="201" y="218" font-size="16" fill="#59636E">Shopify Premier-bureau · teknisk rådgivning &amp; løsningsdesign</text><circle cx="100" cy="263" r="5" fill="#F6F8F3" stroke="#95BF47" stroke-width="2"/><text x="126" y="268" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#D29922">b71e0d4</text>
+<text x="201" y="268" font-size="19" font-weight="650" fill="#1F2328">Account Manager @ Twentyfour</text>
+<text x="912" y="268" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#59636E">2020 – 2021</text>
+<text x="201" y="294" font-size="16" fill="#59636E">Digitalt bureau (tidl. HTML24) · web- og e-commerce-projekter</text><circle cx="100" cy="339" r="5" fill="#F6F8F3" stroke="#95BF47" stroke-width="2"/><text x="126" y="344" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#D29922">9c4d8e2</text>
+<text x="201" y="344" font-size="19" font-weight="650" fill="#1F2328">Butikschef @ Solid</text>
+<text x="912" y="344" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#59636E">2017 – 2018</text>
+<text x="201" y="370" font-size="16" fill="#59636E">Ledelse af butik, team og drift</text><circle cx="100" cy="415" r="5" fill="#F6F8F3" stroke="#95BF47" stroke-width="2"/><text x="126" y="420" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" fill="#D29922">1a2b3c4</text>
+<text x="201" y="420" font-size="19" font-weight="650" fill="#1F2328">Salg @ Solid</text>
+<text x="912" y="420" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#59636E">2014 – 2020</text>
+<text x="201" y="446" font-size="16" fill="#59636E">Hvor det hele startede: kunder, salg og service</text></svg>
