@@ -27,8 +27,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/commits-dark-t.svg">
-  <img alt="Commit-historik: en næsten tom contribution-graf, hvor en tumbleweed ruller forbi. Commits det seneste år: 4. Kopper kaffe: uendeligt." src="assets/commits-light-t.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark-t.svg">
+  <img alt="Commit-historik: en næsten tom contribution-graf, hvor en tumbleweed ruller forbi. Commits det seneste år: 4. Kopper kaffe: uendeligt." src="assets/activity-light-t.svg" width="100%">
 </picture>
 
 <a href="https://www.linkedin.com/in/mathiast%C3%B8pfer/">
