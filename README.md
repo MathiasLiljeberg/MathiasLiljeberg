@@ -1,42 +1,67 @@
-<h1 align="center">Hej, jeg er Mathias 👋</h1>
-<p align="center">
-  <b>Projektleder · Shopify, e-commerce & teknisk rådgivning</b><br/>
-  hos <a href="https://shophelten.dk">ShopHelten</a> – Shopify Premier-bureau · 📍 København
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Mathias Tøpfer – Projektleder · Shopify, e-commerce & teknisk rådgivning hos ShopHelten" src="assets/banner-light.svg" width="100%">
+</picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mathiast%C3%B8pfer/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://shophelten.dk"><img src="https://img.shields.io/badge/ShopHelten-Website-95BF47?style=for-the-badge&logo=shopify&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mathiast%C3%B8pfer/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1F2328?style=for-the-badge&logo=linkedin&logoColor=95BF47"></a>
+  <a href="https://shophelten.dk"><img alt="ShopHelten" src="https://img.shields.io/badge/ShopHelten.dk-1F2328?style=for-the-badge&logo=shopify&logoColor=95BF47"></a>
 </p>
 
----
+<br>
 
-### 🛍️ Hvad jeg laver
+Jeg hjælper brands med at få mere ud af deres **Shopify-webshop** – både forretningsmæssigt og teknisk.
+Som bindeled mellem kunde, udvikling og eksterne partnere afklarer jeg behovet, designer løsningen og følger den hele vejen til noget, der virker i praksis.
 
-Jeg hjælper brands med at få mere ud af deres Shopify-webshop – både forretningsmæssigt og teknisk.
-Jeg står mellem kunden, udvikleren og eksterne partnere: afklarer behovet, skitserer løsningen og følger den hele vejen til noget, der virker i praksis.
+<br>
 
-- **Shopify & Shopify Plus** – shops end-to-end, temaer og Liquid
-- **Løsningsdesign** – Flow og automatisering, Markets, produktdata, betalinger, fragt og integrationer
-- **CRO & UX** – kunderejse, konverteringsoptimering og A/B-tests
-- **AI i workflowet** – research, QA, analyse og dokumentation
+## Fokusområder
 
-### 🧰 Værktøjskassen
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛍️ Shopify &amp; Shopify Plus</h3>
+      Shops end-to-end · temaer &amp; Liquid · Markets · produktdata, struktur og migreringer
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 Løsningsdesign</h3>
+      Shopify Flow &amp; automatisering · betalinger, fragt &amp; fulfillment · apps og integrationer
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 CRO &amp; UX</h3>
+      Kunderejse · konverteringsoptimering · A/B-tests og datadrevne forbedringer
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI i workflowet</h3>
+      Research, QA, analyse og dokumentation – AI som værktøj, ikke erstatning for håndværket
+    </td>
+  </tr>
+</table>
+
+## Erfaring
+
+| | Rolle | Virksomhed |
+|:--|:--|:--|
+| **2021 – nu** | Projektleder | **ShopHelten** · Shopify Premier-bureau |
+| 2020 – 2021 | Account Manager | Twentyfour (tidl. HTML24) |
+| 2014 – 2020 | Salg &amp; butikschef | Solid |
+
+## Værktøjer
 
 <p>
-  <img src="https://img.shields.io/badge/Shopify_Plus-95BF47?style=flat-square&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shopify_Flow-5E8E3E?style=flat-square&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img alt="Shopify Plus" src="https://img.shields.io/badge/Shopify_Plus-1F2328?style=flat-square&logo=shopify&logoColor=95BF47">
+  <img alt="Liquid" src="https://img.shields.io/badge/Liquid-1F2328?style=flat-square&logo=shopify&logoColor=95BF47">
+  <img alt="Shopify Flow" src="https://img.shields.io/badge/Shopify_Flow-1F2328?style=flat-square&logo=shopify&logoColor=95BF47">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-1F2328?style=flat-square&logo=html5&logoColor=95BF47">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1F2328?style=flat-square&logo=css&logoColor=95BF47">
+  <img alt="Git" src="https://img.shields.io/badge/Git-1F2328?style=flat-square&logo=git&logoColor=95BF47">
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-1F2328?style=flat-square&logo=anthropic&logoColor=95BF47">
 </p>
 
-### 💡 Min tilgang
+<br>
 
-> Forstå problemet, oversæt det til en konkret løsning – og få det implementeret sammen med de rigtige folk.
+> **Min tilgang** — forstå problemet, oversæt det til en konkret løsning, og få det implementeret sammen med de rigtige folk.
 
-### 📫 Kontakt
-
-Har du en Shopify-shop, der skal løftes? Find mig på [LinkedIn](https://www.linkedin.com/in/mathiast%C3%B8pfer/) eller via [ShopHelten](https://shophelten.dk).
+<p align="right"><sub>Har du en Shopify-shop, der skal løftes? Skriv til mig på <a href="https://www.linkedin.com/in/mathiast%C3%B8pfer/">LinkedIn</a>.</sub></p>
