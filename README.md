@@ -13,17 +13,22 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/tools-dark.svg">
-  <img alt="Værktøjer: Shopify Plus, Liquid, Shopify Flow, HTML5, CSS3, Git, Claude" src="assets/tools-light.svg" width="100%">
+  <img alt="Værktøjer: Shopify Plus, Liquid, Shopify Flow, HTML5, CSS3, Git, Claude Code" src="assets/tools-light.svg" width="100%">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/focus-dark.svg">
-  <img alt="Fokusområder: Shopify & Shopify Plus, Løsningsdesign, CRO & UX, AI i workflowet" src="assets/focus-light.svg" width="100%">
+  <img alt="Fokusområder: Shopify & Shopify Plus, Løsningsdesign, CRO & UX, AI, agents & workflows" src="assets/focus-light.svg" width="100%">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg">
   <img alt="Erfaring: Projektleder @ ShopHelten (2021–nu), Account Manager @ Twentyfour (2020–2021), Butikschef @ Solid (2017–2018), Salg @ Solid (2014–2020)" src="assets/experience-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/commits-dark.svg">
+  <img alt="Commit-historik: en næsten tom contribution-graf, hvor en tumbleweed ruller forbi. Commits det seneste år: 4. Kopper kaffe: uendeligt." src="assets/commits-light.svg" width="100%">
 </picture>
 
 <picture>
