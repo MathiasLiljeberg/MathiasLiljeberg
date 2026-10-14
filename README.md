@@ -33,7 +33,7 @@
 
 <a href="https://www.linkedin.com/in/mathiast%C3%B8pfer/">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/quote-dark.svg?v=6">
-  <img alt="Min tilgang: 01 Forstå, 02 Oversæt, 03 Implementér. Har du en Shopify-shop, der skal løftes? Skriv til mig på LinkedIn." src="assets/quote-light.svg?v=6" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/approach-dark.svg">
+  <img alt="Min tilgang: 01 Forstå, 02 Oversæt, 03 Implementér. Har du en Shopify-shop, der skal løftes? Skriv til mig på LinkedIn." src="assets/approach-light.svg" width="100%">
 </picture>
 </a>
