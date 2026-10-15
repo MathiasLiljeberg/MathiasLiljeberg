@@ -150,7 +150,7 @@ def commits(p):
     cols, rows, cs, g = 52, 7, 13, 3
     gw = cols*(cs+g)-g; gx = (W-gw)/2; gy = 104
     empty = p["chip"]; lvl = ["#2E1F4D","#5B3A9E","#9479CC"] if p["bg1"]=="#0B0F14" else ["#DCD0F0","#8A6BC4","#4A1F73"]
-    lit = {(51,3):2,(50,1):1,(49,5):0,(51,5):1}
+    lit = {(7,2):1,(19,4):0,(34,1):2,(48,5):1}
     cells = ""
     for c in range(cols):
         for r in range(rows):
@@ -208,4 +208,4 @@ for f in os.listdir("assets"): os.remove("assets/"+f)
 for mode in ("dark","light"):
     p = pal(mode=="dark"); ACC = "#9479CC" if mode=="dark" else "#4A1F73"; AI = ACC
     for name,fn in [("banner",banner),("about",about),("tools",tools),("focus",focus),("experience",experience),("activity",commits),("approach",quote)]:
-        open(f"assets/{name}-{mode}-c.svg","w").write(fn(p))
+        open(f"assets/{name}-{mode}-d.svg","w").write(fn(p))
