@@ -167,7 +167,7 @@ def commits(p):
     sx = X; sy = gb + 92; sw = (IW - 3*12)/4; st = ""
     for i,(k,v) in enumerate(stats):
         x = sx + i*(sw+12)
-        st += f'<rect x="{x:.1f}" y="{sy}" width="{sw:.1f}" height="76" rx="12" fill="{p['card']}" stroke="{p['bd']}"/><text x="{x+20:.1f}" y="{sy+36}" font-size="24" font-weight="700" fill="{ACC if i else p['fg']}">{esc(v)}</text><text x="{x+20:.1f}" y="{sy+60}" font-size="14" fill="{p['mut']}">{esc(k)}</text>'
+        st += f'<rect x="{x:.1f}" y="{sy}" width="{sw:.1f}" height="76" rx="12" fill="{p['card']}" stroke="{p['bd']}"/><text x="{x+sw/2:.1f}" y="{sy+36}" text-anchor="middle" font-size="24" font-weight="700" fill="{ACC if i else p['fg']}">{esc(v)}</text><text x="{x+sw/2:.1f}" y="{sy+60}" text-anchor="middle" font-size="14" fill="{p['mut']}">{esc(k)}</text>'
     out = label(p,64,"COMMIT-HISTORIK") + f'<text x="{W-X}" y="58" text-anchor="end" font-size="15" font-style="italic" fill="{p["mut"]}">Her er der stille. Meget stille.</text>'
     out += cells + dust + tw_ + st
     out += f'<text x="{X}" y="{sy+76+44}" font-size="17" fill="{p["fg"]}">Jeg skriver ikke selv koden – jeg sørger for, at den bliver skrevet. <tspan fill="{p["mut"]}">Til gengæld har jeg nu en flot profil.</tspan></text>'
@@ -208,4 +208,4 @@ for f in os.listdir("assets"): os.remove("assets/"+f)
 for mode in ("dark","light"):
     p = pal(mode=="dark"); ACC = "#9479CC" if mode=="dark" else "#4A1F73"; AI = ACC
     for name,fn in [("banner",banner),("about",about),("tools",tools),("focus",focus),("experience",experience),("activity",commits),("approach",quote)]:
-        open(f"assets/{name}-{mode}-l.svg","w").write(fn(p))
+        open(f"assets/{name}-{mode}-c.svg","w").write(fn(p))
